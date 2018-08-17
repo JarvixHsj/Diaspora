@@ -11,7 +11,6 @@ A WordPress theme
 - Ghost: https://github.com/MoeLoli/Diaspora-Ghost
 - Typecho: https://github.com/MoeLoli/Diaspora-Typecho
 
-![px](https://user-images.githubusercontent.com/2193211/42122301-3b0b4ba4-7c72-11e8-80a0-f7b62ae03f9b.jpg)
 
 ## 相关说明
 
@@ -93,11 +92,6 @@ define ('USE_TIMTHUMB', FALSE);
 
 修改 js 只需要修改 `assets/Diaspora.js`
 
-## 捐赠
-
-如果你觉得这个主题不错，欢迎微信捐赠作者
-
-![qr](https://cloud.githubusercontent.com/assets/2193211/15043958/e18cd400-1303-11e6-826f-e4495e210d11.jpg)
 
 ## License
 MIT
